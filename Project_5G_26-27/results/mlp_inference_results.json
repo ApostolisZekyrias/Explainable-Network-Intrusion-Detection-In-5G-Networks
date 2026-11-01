@@ -1,0 +1,14 @@
+{
+    "model": "MLP",
+    "device": "cpu",
+    "torch_version": "2.15.0+cpu",
+    "cpu_threads": 6,
+    "test_samples": 178877,
+    "single_flow_mean_ms": 0.07779420000000001,
+    "single_flow_median_ms": 0.0687,
+    "single_flow_p95_ms": 0.11191499999999999,
+    "batch_size": 512,
+    "batch_total_median_seconds": 0.0676003999542445,
+    "throughput_flows_per_second": 2646093.8118868135,
+    "batch_amortized_ms_per_flow": 0.00037791555065349095
+}
