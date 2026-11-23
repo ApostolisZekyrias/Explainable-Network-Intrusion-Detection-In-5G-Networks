@@ -5,3 +5,7 @@ joblib
 ipykernel
 matplotlib
 seaborn
+scipy
+torch
+shap
+
